@@ -16,4 +16,14 @@ Calculation example:
 
 <img src="https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235" alt="GIF Caption" width="215" height="466">
 
+# Installation
 
+1. Clone the Repository:
+   git clone https://github.com/yourusername/NeuCalc..git
+   cd your-repository
+   
+2. Install Dependencies:
+   npm install
+
+3.Run the App:
+  npx expo start
