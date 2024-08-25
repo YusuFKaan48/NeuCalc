@@ -19,17 +19,15 @@ Calculation example:
 # Installation
 
 1. Clone the Repository:
-   git clone https://github.com/yourusername/NeuCalc..git
-   cd your-repository
-   
-2. Install Dependencies:
-   npm install
-
-3. Run the App:
-   npx expo start
-
-   1. **Clone the Repository:**
-
-   ```bash
+    ```bash
    git clone https://github.com/yourusername/NeuCalc.git
    cd NeuCalc
+   
+3. Install Dependencies:,
+   ```bash
+   npm install
+
+5. Run the App:
+   ```bash
+   npx expo start
+
