@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/23cef80b-4cc9-48af-9b2c-2120b6462769" alt="GIF Caption" width="1024" height="360">
+<img src="https://github.com/user-attachments/assets/23cef80b-4cc9-48af-9b2c-2120b6462769" alt="GIF Caption" width="1024" height="300">
 
 
 This project showcases a mobile application developed using React Native, embracing the neumorphism design language to deliver a modern, soft, and intuitive user experience.
