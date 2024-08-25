@@ -1,4 +1,4 @@
-<img src="https://github.com/YusuFKaan48/PixelWeather/assets/111217286/184c2f4c-71c6-45d6-8900-996a17c9b680" alt="GIF Caption" width="1024" height="360">
+<img src="https://github.com/user-attachments/assets/07b674bd-8364-4d47-82d8-2d8a32d99ba6" alt="GIF Caption" width="1024" height="360">
 
 This project showcases a mobile application developed using React Native, embracing the neumorphism design language to deliver a modern, soft, and intuitive user experience.
 
