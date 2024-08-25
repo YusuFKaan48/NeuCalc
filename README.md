@@ -9,9 +9,9 @@ This project showcases a mobile application developed using React Native, embrac
 
 # Calculator Part
 
-The LoginView is a login screen that utilizes the protocol-delegate pattern to handle the login event. When the user logs in for the first time, it requests the location information. Once the location is provided, the user is directed to the main application. Subsequent logins will directly redirect the user to the main application without requiring location input again. This functionality is achieved using User Defaults to store the location data.
+The calculator feature of this app combines simplicity with neumorphic design elegance. It offers basic arithmetic operations in a visually pleasing interface. The soft, raised buttons with subtle shadows provide a satisfying tactile experience, while the clean layout ensures ease of use. Perfect for quick, everyday calculations, this calculator seamlessly integrates into the app's overall neumorphic aesthetic, making math both functional and visually appealing.
 
-First time example:
+Calculation example:
 
 <img src="https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235" alt="GIF Caption" width="215" height="466">
 
