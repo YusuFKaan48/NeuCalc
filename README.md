@@ -13,6 +13,6 @@ The LoginView is a login screen that utilizes the protocol-delegate pattern to h
 
 First time example:
 
-<img src="![a](https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235)" alt="GIF Caption" width="215" height="466">
-![a](https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235)
+<img src="https://github.com/user-attachments/assets/d3ab64f6-5128-47fc-a602-3703e7efa235" alt="GIF Caption" width="215" height="466">
+
 
