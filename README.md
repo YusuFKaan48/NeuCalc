@@ -20,7 +20,7 @@ Calculation example:
 
 1. Clone the Repository:
     ```bash
-   git clone https://github.com/yourusername/NeuCalcgit
+   git clone https://github.com/YusuFKaan48/NeuCalc
    cd NeuCalc
    
 3. Install Dependencies:,
